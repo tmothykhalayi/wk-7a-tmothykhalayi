@@ -10,7 +10,6 @@
 * ✍️ A code editor (e.g., Visual Studio Code).
 * 🖥️ MySQL Workbench or another SQL database environment.
 
----
 
 
 ## 📝 Submission Instructions  
