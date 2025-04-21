@@ -5,8 +5,6 @@
 * 💡 **Apply normalization techniques** to improve database structure and efficiency.
 * 🔍 **Learn First, Second, and Third Normal Forms** (1NF, 2NF, 3NF) to eliminate redundancy and optimize data storage.
 
----
-
 ## 📋 **What You'll Need**
 * 💻 A computer with internet access.
 * ✍️ A code editor (e.g., Visual Studio Code).
